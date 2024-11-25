@@ -9,7 +9,7 @@
     scanf("%d", &b);   
     
     if (a <= 0 || b <= 0) {
-        printf("Vui long ban nhap hai so nguyen duong!\n");
+        printf("Moi ban ban nhap hai so nguyen duong!\n");
     } else {
         
         int min;
